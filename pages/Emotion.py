@@ -11,6 +11,9 @@ model=pickle.load(open('Models/logistic_regresion.pkl', 'rb'))
 lb=pickle.load(open('Models/label_encoder.pkl', 'rb'))
 tfidf_vectorizer=pickle.load(open('Models_1/tfidf_vectorizer.pkl', 'rb'))
 
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 # Custom function
 

@@ -5,7 +5,7 @@ import nltk
 
 nltk.download('punkt')
 nltk.download('stopwords')
-
+nltk.download('wordnet')
 #loading models
 clf = pickle.load(open('Models/clf.pkl','rb'))
 tfidfd = pickle.load(open('Models/tfidf.pkl','rb'))
