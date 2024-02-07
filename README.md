@@ -50,3 +50,8 @@ This project is inspired by the transformative capabilities of NLP in diverse ap
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details."
+
+# Demo
+[streamlit-Home-2024-02-07-13-02-41.webm](https://github.com/figo2001/The-Complete-NLP-project/assets/78696850/2d71975f-defe-43d9-857c-e887949713a6)
+
+
